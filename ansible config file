@@ -1,0 +1,4 @@
+In ansible
+vi ansible.cfg
+copy content from below file and paste
+https://github.com/ansible/ansible/blob/stable-2.9/examples/ansible.cfg
